@@ -3,7 +3,7 @@ FROM node:20
 # Menambahkan label author
 LABEL maintainer="Zuy"
 LABEL author="Zuy"
-LABEL description="HackOne"
+LABEL description="Advisory"
 LABEL version="1.0"
 
 # Install Chrome dependencies
